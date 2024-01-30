@@ -2,9 +2,6 @@
 
 This is the code for "Event-enhanced Retrieval in Real-time Search". The proposed solution is an event-enhanced retrieval (EER) method that incorporates hard negative mining techniques, supervised contrastive learning, and pairwise learning to improve encoder performance. 
 
-## Sample_data
-There are 1k raw `<q,title>` pairs in folder `0_sample_data`.
-
 ## File Description
 ```
 ├── pretrain_model             Pretrain model
