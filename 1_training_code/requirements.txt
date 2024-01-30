@@ -1,0 +1,6 @@
+transformers==4.18.0
+torch==1.12.1
+loguru
+sklearn
+tqdm
+numpy
